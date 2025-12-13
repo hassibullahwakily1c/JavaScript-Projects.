@@ -17,4 +17,3 @@ This folder contains a ready-to-run, responsive portfolio site:
 - Included square images where indicated ✅
 - Background video ✅
 - Responsive layout + mobile menu ✅
-- Contact form validation (try submitting with empty fields) ✅
